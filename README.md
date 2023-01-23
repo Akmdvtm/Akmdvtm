@@ -10,3 +10,10 @@
   <a href="https://open.spotify.com/user/3135gkdspqonmgui654vjpy7472y"><img alt="Spotify" title="Spotify" height="48" width="48" src="assets/spotify.svg"></a>
   <a href="https://instagram.com/akmdvtm"><img alt="Instagram" title="Instagram" height="48" width="48" src="assets/instagram.svg"></a>
 </p>
+
+<p align="center">
+  <img alt="GitHubStats" title="GHS" src="https://github-readme-stats.vercel.app/api?username=Akmdvtm&show_icons=true&theme=tokyonight">
+</p>
+
+
+
